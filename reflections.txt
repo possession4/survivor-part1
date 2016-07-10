@@ -8,3 +8,6 @@ The most rewarding personal challenge was powering through the feeling of being 
 
 Where do you still have room to grow?
 Because I've taken a few sabbaticals from the code and it's been hard for me to jump back in. I need to work on being consistent with my learning so this doesn't happen in the future.
+
+How does your gem take advantage of Ruby’s metaprogramming capabilities?
+In my gem I used "define method" to create all of my color methods instead of making each method individually.
